@@ -16,6 +16,15 @@
   "Point Cloud Segmentation": '"Point Cloud Segmentation"'
   "Point Cloud Matching": '"Point Cloud Matching"'
   "Point Cloud Registration": '"Point Cloud Registration"'
+  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"OR"Loop Closure Detection"OR"visual place recognition"OR"image retrieval"'
+  "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
+  "Image Matching": '"Image Matching"OR"Keypoint Matching"'
+
+"Face Reenactment":
+  "Face Reenactment": '"Face Reenactment"OR"portrait reenactment"'
+
+"Talking Faces":
+  "Talking Faces": '"Talking Faces"OR"audio driven"OR"audio-driven"'
 
 "Federated Learning":
   "Federated Learning": '"Federated Learning"OR"Federated Machine Learning"'
@@ -56,3 +65,12 @@
   "SLAM": '"SLAM"'
   "SFM": '"SFM"OR"Structure from Motion"'
   "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+
+"Camera":
+  "Camera": '"Camera"'
+
+"Healthcare":
+  "Healthcare": '"Healthcare" OR "hospital"'
+
+"OCR":
+  "OCR": '"OCR"'
