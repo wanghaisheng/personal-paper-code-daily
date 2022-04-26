@@ -67,7 +67,7 @@
   "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
 
 "Camera":
-  "Camera": '"Camera"'
+  "Camera": '"Camera"OR"multi camera"'
 
 "Healthcare":
   "Healthcare": '"Healthcare" OR "hospital"'
