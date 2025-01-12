@@ -6,3 +6,6 @@ pyyaml
 loguru
 pytz
 fire
+mkdocs
+mkdocs-material
+pymdown-extensions
